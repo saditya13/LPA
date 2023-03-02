@@ -113,7 +113,7 @@ parser.add_argument('--lpa_weight', type=float, default=10, help='weight of LP r
 parser.add_argument('--dropout', type=float, default=0.2, help='dropout rate')
 parser.add_argument('--lr', type=float, default=0.02, help='learning rate')
 '''
-#not updated here
+
 t = time()
 args = parser.parse_args()
 

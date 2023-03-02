@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e93f85e-c341-428d-acec-b65f654f7033" name="Changes" comment="02-03-23" />
+    <list default="true" id="8e93f85e-c341-428d-acec-b65f654f7033" name="Changes" comment="02-03-23">
+      <change beforePath="$PROJECT_DIR$/GCN-LPA/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/GCN-LPA/src/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
